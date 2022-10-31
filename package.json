@@ -1,6 +1,6 @@
 {
   "name": "inspect-browser-storage",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "⚗️ Read and write local browser/electron storage",
   "repository": "Intevel/inspect-browser-storage",
   "license": "MIT",
@@ -29,9 +29,9 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "^11.0.0",
+    "@types/fs-extra": "^9.0.13",
     "@types/leveldown": "^4.0.3",
     "@types/levelup": "^5.1.2",
-    "@types/fs-extra": "^9.0.13",
     "@vitest/coverage-c8": "^0.24.3",
     "eslint": "^8.25.0",
     "standard-version": "^9.5.0",
