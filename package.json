@@ -1,6 +1,6 @@
 {
   "name": "inspect-browser-storage",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "⚗️ Read and write local browser/electron storage",
   "repository": "Intevel/inspect-browser-storage",
   "license": "MIT",
